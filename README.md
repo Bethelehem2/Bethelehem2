@@ -10,5 +10,6 @@ About Me
 - 💼 Background in IT support, database systems and cybersecurity projects
 - 🌍 Multilingual - English and Amharic
 - ✉️ badenga@simmons.edu
--  🔗 www.linkedin.com/in/
+-  🔗 www.linkedin.com/in/bethelehem-fikrie
+-  
 
