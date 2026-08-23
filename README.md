@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**Bethelehem2/Bethelehem2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi, I'm Bethelehem 👋
+IT & Cybersecurity graduate passionate about security, technology and using data to solve real problems.
+🔍 Open to entry-level roles in IT, Cybersecurity, GRC, Data Analytics and Tech Consulting.
+About Me
+- 🎓 BS in Information Technology and Cybersecurity - Simmons University
+- 🎓 AS in Cybersecurity - Bunker Hill Community College
+- 📜 Currently completing the WiCys Google Cybersecurity Certificate
+- 💼 Currently completing PWC Externship - data storytelling and AI-powered consulting-
+- 🎯 Next certifications: CompTIA Security+ and CGRC
+- 💼 Background in IT support, database systems and cybersecurity projects
+- 🌍 Multilingual - English and Amharic
+- ✉️ badenga@simmons.edu
+-  🔗 
