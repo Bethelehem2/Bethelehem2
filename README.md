@@ -9,7 +9,7 @@ IT & Cybersecurity graduate passionate about security, technology and using data
 - 🎯 Next certifications: CompTIA Security+ and CGRC
 - 💼 Background in IT support, database systems and cybersecurity projects
 - 🌍 Multilingual - English and Amharic
-- ✉️ badenga@simmons.edu
+- ✉️ beth.fikrie@outlook.com
 - 🔗 www.linkedin.com/in/bethelehem-fikrie
 
   ## Skills & Frameworks
