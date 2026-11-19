@@ -4,16 +4,18 @@ IT & Cybersecurity graduate passionate about security, technology and using data
 ## About Me
 - 🎓 BS in Information Technology and Cybersecurity - Simmons University
 - 🎓 AS in Cybersecurity - Bunker Hill Community College
-- 📜 Currently completing the WiCys Google Cybersecurity Certificate
-- 💼 Currently completing PwC Externship - data storytelling and AI-powered consulting
+- 📜 Currently completing the WiCys Google Cybersecurity Certificate.
 - 🎯 Next certifications: CompTIA Security+ and CGRC
-- 💼 Background in IT support, database systems and cybersecurity projects
+- 🛡️ Currently completing the vCISO Cybersecurity Risk Assessment Externship, assessing controls against NIST CSF 2.0.
+- 💼 Compleleted PwC Externship - data storytelling and AI-powered consulting.
+- 📊 Compleleted Data Analytics Externship - children's environmental health data.
+- 💼 Background in IT support, database systems and cybersecurity projects.
 - 🌍 Multilingual - English and Amharic
 - ✉️ beth.fikrie@outlook.com
 - 🔗 www.linkedin.com/in/bethelehem-fikrie
 
   ## Skills & Frameworks
-NIST SP 800-30, NIST SP 800-61r3, NIST CSF 2.0, HIPAA, GDPR, PCI-DSS, MITRE ATT&CK, Cyber Kill Chain, Zero Trust Architecture, Risk Management, Windows 10/11, macOS, TCP/IP, DNS/DHCP, Cisco Packet Tracer, Oracle SQL, MongoDB, Power BI, Tableau, Lucid chart
+NIST SP 800-30, NIST SP 800-61r3, NIST CSF 2.0, HIPAA, GDPR, PCI-DSS, MITRE ATT&CK, Cyber Kill Chain, Zero Trust Architecture, Risk Management, Windows 10/11, macOS, TCP/IP, DNS/DHCP, Cisco Packet Tracer, Oracle SQL, MongoDB, Power BI, Lucid chart
 
 ## 🛡️ Cybersecurity Projects
 **Cybersecurity Risk Analysis & Incident Response Plan**
