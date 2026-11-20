@@ -24,6 +24,7 @@ Assessing an organization's security controls against NIST CSF 2.0, grading comp
 
 **Cybersecurity Risk Analysis & Incident Response Plan | Healthcare**
 Built a risk analysis and incident response plan for a simulated hospital environment using NIST SP 800-30, NIST SP 800-61r3 and NIST CSF 2.0, with HIPAA compliance considerations.
+📄 [View full report](https://docs.google.com/document/d/1ibTJ5otpJVg9dR2-_gsb1G5EchPyydVqybbIYZ0KWjg/edit?usp=sharing)
 
 **Internal Security Audit (Botium Toys) | Google Cybersecurity Certificate**
 Completed a controls and compliance checklist against PCI DSS, GDPR and SOC requirements, scored overall risk and ranked recommendations by priority.
