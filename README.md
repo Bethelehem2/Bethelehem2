@@ -27,7 +27,7 @@ Built a risk analysis and incident response plan for a simulated hospital enviro
 📄 [View full report](https://docs.google.com/document/d/1ibTJ5otpJVg9dR2-_gsblG5EchPyydVqybbIYZ0KWjg/edit?usp=sharing)
 
 **Internal Security Audit (Botium Toys) | Google Cybersecurity Certificate**<br>
-Completed a controls and compliance checklist against PCI DSS, GDPR and SOC requirements, scored overall risk and ranked recommendations by priority.
+Completed a controls and compliance checklist against PCI DSS, GDPR and SOC requirements, scored overall risk and ranked recommendations by priority.<br>
 📄 [View full report](https://docs.google.com/document/d/15PgbpMfIIEn1PKZ_S1gb8Wd7YluDVOGjsRxPfmckVJI/edit?usp=sharing)
 
 **Network Hardening Risk Assessment | Google Cybersecurity Certificate**<br>
